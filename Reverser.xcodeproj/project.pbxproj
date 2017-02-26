@@ -229,6 +229,7 @@
 				TargetAttributes = {
 					0C270A641E6196310099EBB0 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = CJSAKGXT5B;
 						ProvisioningStyle = Automatic;
 					};
 					0C270A7D1E6196320099EBB0 = {
@@ -446,7 +447,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = CJSAKGXT5B;
 				INFOPLIST_FILE = Reverser/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ru.sberdays.reverser.Reverser;
@@ -458,7 +459,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = CJSAKGXT5B;
 				INFOPLIST_FILE = Reverser/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ru.sberdays.reverser.Reverser;
@@ -531,6 +532,7 @@
 				0C270A941E6196320099EBB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0C270A951E6196320099EBB0 /* Build configuration list for PBXNativeTarget "ReverserTests" */ = {
 			isa = XCConfigurationList;
@@ -539,6 +541,7 @@
 				0C270A971E6196320099EBB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0C270A981E6196320099EBB0 /* Build configuration list for PBXNativeTarget "ReverserUITests" */ = {
 			isa = XCConfigurationList;
@@ -547,6 +550,7 @@
 				0C270A9A1E6196320099EBB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

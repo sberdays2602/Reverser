@@ -11,7 +11,9 @@
 @implementation SBDReverser
 
 + (nullable NSString *)reverseString:(nullable NSString *)source {
-        
+    if (nil == source)
+        return source;
+    
     NSMutableString *reversedString = [[NSMutableString alloc] initWithCapacity: source.length];
     NSUInteger characterIndex = source.length;
     NSUInteger incrementLenght = 1;
